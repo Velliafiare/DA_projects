@@ -1,2 +1,2 @@
-# business_analytics_project
-Progect on business analytics made during DA course.
+# DA_projects
+Progect on data analytics made during DA course at Yandex.Practicum
