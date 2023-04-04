@@ -1,2 +1,2 @@
 # DA_projects
-Progect on data analytics made during DA course at Yandex.Practicum
+Progects on data analysis made during DA course at Yandex.Practicum
