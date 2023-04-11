@@ -1,0 +1,1 @@
+A couple of DA project made during DA course in Yandex.Practicum. These are not actual business tasks, though all the projects are based on real-world examples. 
